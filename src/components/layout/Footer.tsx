@@ -32,11 +32,9 @@ export const Footer = () => {
                 </a>
               </li>
               <li>
-              /**
-               * <a href="/privacy" className="hover:text-yellow-500 transition-colors">
-               * Privacy Policy
-               * </a>
-               */
+                /* <a href="/privacy" className="hover:text-yellow-500 transition-colors"> */
+                 /* Privacy Policy */
+                </a>
               </li>
               <li>
                 <a href="/terms" className="hover:text-yellow-500 transition-colors">
