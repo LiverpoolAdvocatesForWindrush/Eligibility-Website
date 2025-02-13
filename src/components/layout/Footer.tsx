@@ -31,12 +31,11 @@ export const Footer = () => {
               </li>
               <li>
                  /* Privacy Policy */
-                </a>
               </li>
               <li>
                 //<a href="/terms" className="hover:text-yellow-500 transition-colors">
                   Terms of Service
-                </a>
+                //</a>
               </li>
             </ul>
           </div>
