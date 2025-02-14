@@ -1,7 +1,11 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\.bolt",
+    "\\src",
+    "\\src\\components",
+    "\\src\\components\\results"
   ],
-  "SelectedNode": "\\C:\\Users\\Zibo\\Desktop\\Windrush-liverpool-main",
+  "SelectedNode": "\\src\\main.tsx",
   "PreviewInSolutionExplorer": false
 }

@@ -11,15 +11,15 @@ export const Footer = () => {
             <div className="space-y-2">
               <p className="flex items-center">
                 <Phone className="h-5 w-5 mr-2 text-yellow-500" />
-                0800 123 4567
+                +44 (0) 7902 157059
               </p>
               <p className="flex items-center">
                 <Mail className="h-5 w-5 mr-2 text-yellow-500" />
-                support@windrush-help.uk
+                info@liverpooladvocatesforwindrush.org
               </p>
               <p className="flex items-center">
                 <MapPin className="h-5 w-5 mr-2 text-yellow-500" />
-                London, UK
+                151 Dale Street, Liverpool L2 2AH
               </p>
             </div>
           </div>
@@ -31,7 +31,7 @@ export const Footer = () => {
               </li>
               <li>
                  Privacy Policy
-              </li>
+              </li>      
               <li>
                   Terms of Service
               </li>
