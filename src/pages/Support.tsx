@@ -4,7 +4,7 @@ import { MapPin, Phone, Mail } from 'lucide-react';
 export const Support = () => {
   const supportCenters = [
     {
-      city: 'London',
+      city: 'testing update London',
       organization: 'Windrush Justice Center',
       address: '123 Brixton Road, London SW9 1AB',
       phone: '020 7123 4567',
