@@ -8,7 +8,7 @@ export default defineConfig({
   optimizeDeps: {
     exclude: ['lucide-react'],
     },
-    build: {
+    /*build: {
         chunkSizeWarningLimit: 1000, // Increases limit to 1000KB
-    }
+    }*/
 });
