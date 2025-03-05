@@ -7,5 +7,8 @@ export default defineConfig({
     base: "/Eligibility-Website/",
   optimizeDeps: {
     exclude: ['lucide-react'],
-  },
+    },
+    build: {
+        chunkSizeWarningLimit: 1000, // Increases limit to 1000KB
+    }
 });
